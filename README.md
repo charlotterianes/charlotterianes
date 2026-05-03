@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, im charry 🍒
+
+Interests: cross-asset structuring, exotic derivatives, options trading for commodities & fx, web3 & crypto 
+Side Interests: punk rock concerts, poker, marathons, ice baths
+Looking for: quant & trading in sg/hk/nyc 
 
 <!--
 **charlotterianes/charlotterianes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
