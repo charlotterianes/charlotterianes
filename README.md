@@ -1,6 +1,5 @@
 ## Hi there, im charry ♡
 - Interests: cross-asset structuring, exotic derivatives, options trading for commodities & fx, web3 & crypto 
-- Side Interests: punk rock concerts, poker, marathons, ice baths, photography
 - Looking for: quant & trading in sg/hk/nyc 
 
 <!--
