@@ -1,6 +1,13 @@
-## Hi there, im charry ♡
-- Interests: cross-asset structuring, exotic derivatives, options trading for commodities & fx, web3 & crypto 
-- Looking for: quant & trading in sg/hk/nyc 
+## Hi there, im charry ♠️
+- Interests: cross-asset structuring, exotic derivatives, options trading for commodities & fx, web3 & crypto
+- More Interests: math, poker, punk rock concerts, metaphysical philo 
+- Looking for: quant & trading in sg/hk/nyc
+
+Working on: 
+- Machine Learning & Financial Application
+- Market Microstructure & Algorithmic Trading
+- Quant Trading Crypto Strats 
+- C++ for Financial Engineering
 
 <!--
 **charlotterianes/charlotterianes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
