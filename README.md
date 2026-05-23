@@ -1,6 +1,6 @@
-## Hi there, im charry ♠️
+## Hi there, im char
 - Interests: cross-asset structuring, exotic derivatives, options trading for commodities & fx, web3 & crypto
-- More Interests: math, poker, punk rock concerts, metaphysical philo 
+- More Interests: math, metaphysical philo 
 - Looking for: quant & trading in sg/hk/nyc
 
 Working on: 
