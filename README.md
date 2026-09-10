@@ -1,7 +1,7 @@
 ## 你好，我是小尹! :)
 - Interests: cross-asset structuring, exotic derivatives, options trading for commodities & fx, web3 & crypto
 - More Interests: math, metaphysical philo 
-- Looking for: quant & trading in sg/hk/nyc
+- Looking for: quant & trading in sg/hk/sh/nyc
 
 目前研究/工作方向：
 - 機器學習及其金融應用
