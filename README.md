@@ -4,10 +4,10 @@
 - Looking for: quant & trading in sg/hk/sh/nyc
 
 目前研究/工作方向：
-- 機器學習及其金融應用
-- 市場微觀結構與演算法交易
-- 加密貨幣量化交易策略
-- 金融工程中的 C++ 應用
+- Machine Learning and its Applications in Finance 
+- Market Microstructure and Algorithmic Trading 
+- Quantitative Trading Strategies for Cryptocurrencies 
+- C++ Applications in Financial Engineering 
 
 <!--
 **charlotterianes/charlotterianes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
